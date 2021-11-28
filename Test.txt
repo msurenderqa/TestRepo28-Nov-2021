@@ -1,0 +1,14 @@
+echo "# TestRepo28-Nov-2021" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/msurenderqa/TestRepo28-Nov-2021.git
+git push -u origin main
+
+===================================
+pwd: Present Working directory
+pwd --> C:/users/DELL
+
+C:\Learn_GIT\Practice_Git
+cd c:/Learn_GIT/Practice_Git
